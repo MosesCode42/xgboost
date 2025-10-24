@@ -1,4 +1,4 @@
-# 🧠 XGBoost Classification Notebook
+#  XGBoost Classification Notebook
 
 **Step-by-step guide to understanding how XGBoost works — explained in simple language with examples, metrics, and feature importance plots.**
 
@@ -7,7 +7,7 @@ This notebook walks through the full process of building and evaluating an XGBoo
 ---
 
 ## 🚀 What You’ll Learn
-- What boosting means in simple terms 🌳 ➡️ 🌲 ➡️ 🌴  
+- What boosting means in simple terms 
 - How XGBoost improves weak models to make strong predictions  
 - How to prepare data and split into training and testing sets  
 - How to evaluate model performance using accuracy, precision, recall, and confusion matrix  
@@ -15,7 +15,7 @@ This notebook walks through the full process of building and evaluating an XGBoo
 
 ---
 
-## 📘 Notebook Overview
+##  Notebook Overview
 **File:** `XGBoost_Classification_Tutorial.ipynb`
 
 Inside this notebook, you’ll find:
